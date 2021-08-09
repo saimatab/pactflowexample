@@ -23,7 +23,7 @@
     "course",
     "tau"
   ],
-  "author": "saima"
+  "author": "saima",
 
   "devDependencies": {
     "@pact-foundation/pact": "^9.7.0", 
